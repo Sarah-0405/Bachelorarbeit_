@@ -12,3 +12,5 @@ In "ERA-5-visualizations" und "CORINE" werden die LST Daten validiert, indem sie
 Das Notebook "OSMnx_accessibilities" beinhaltet schließlich den Bezug der Fußwegenetz und die Berechnung zonaler Statistiken bezüglich der Erreichbarkeit von Cold Spots. 
 
 Die in QGIS erstellten Isochrone der Erreichbarkeitszonen sind hier als Shapefiles enthalten. 
+
+Zusätzlich beinhaltet das "Übersichtskarten_OSM"-Notebook den Vorgang zum Erstellen allgemeiner Karten zur Einordnung der Stadtgebiete, basierend auf der OpenStreetMap

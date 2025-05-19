@@ -14,3 +14,5 @@ Das Notebook "OSMnx_accessibilities" beinhaltet schließlich den Bezug der Fußw
 Die in QGIS erstellten Isochrone der Erreichbarkeitszonen sind hier als Shapefiles enthalten. 
 
 Zusätzlich beinhaltet das "Übersichtskarten_OSM"-Notebook den Vorgang zum Erstellen allgemeiner Karten zur Einordnung der Stadtgebiete, basierend auf der OpenStreetMap
+
+[![DOI](https://zenodo.org/badge/940572620.svg)](https://doi.org/10.5281/zenodo.15462185)
